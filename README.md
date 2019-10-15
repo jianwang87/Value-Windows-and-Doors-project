@@ -3,4 +3,4 @@
 # FOR PAYROLL TEMPLATE
 # Input the order number and all kinds of windows quantities in work sheet
 # The payroll of all the workers will be calculated by itself
-# REMEMBER TO SAVE AS A NEW FILE WHEN YOU USE IT EVERY TIME.
+# REMEMBER TO SAVE AS A NEW FILE EVERY TIME YOU USE IT.
